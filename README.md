@@ -1,7 +1,7 @@
 # Feedforward-Neural-Network
 Assignment related to CS 725
 
-This project is completed as a part of the course, Foundations of Machine Learning(Cs 725) at Indian Institute of Technology Bombay in Autumn, 2022. The course is offered by the Dept. of Computer Science and Engineering.
+This project is completed as a part of the course, Foundations of Machine Learning(CS 725) at Indian Institute of Technology Bombay in Autumn, 2022. The course is offered by the Dept. of Computer Science and Engineering.
 
 # Objective
 
